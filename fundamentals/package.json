@@ -1,0 +1,15 @@
+{
+  "name": "twilio-liftoff-fundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "03-server.js",
+  "scripts": {
+    "start": "node 03-server.js"
+  },
+  "author": "Phil Nash <philnash@twilio.com> (https://philna.sh/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "twilio": "^3.58.0"
+  }
+}
