@@ -20,8 +20,9 @@ Moving from our initial examples to more dynamic use cases. Find the code in the
 * Dynamic responses to inbound messages
 * Dynamic outbound notifications
 
-## At Scale:
+## [At Scale](./scale):
 
+Investigating different ways to scale making many API requests. Find the code in the [scale](./scale) directory.
+
+* Dealing with API limits with queues
 * Moving API Calls from the webserver
-* Scheduling reminder messages
-* Prototyping complex systems

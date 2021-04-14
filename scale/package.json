@@ -1,0 +1,20 @@
+{
+  "name": "twilio-liftoff-scale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "status-callbacks.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Phil Nash <philnash@twilio.com> (https://philna.sh/)",
+  "license": "MIT",
+  "dependencies": {
+    "bullmq": "^1.15.1",
+    "express": "^4.17.1",
+    "p-queue": "^6.6.2",
+    "twilio": "^3.60.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
